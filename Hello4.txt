@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 asdasdasdasdasdasd
 
 
@@ -11,3 +12,8 @@ asdasdasdasdasdasd
 0------------------------------
 
 这是在repos2中的Hello4.txt进行修改-------------------------------
+
+
+asdasdasdasdasdasda
+asdasdasdasdasdasdas
+asdasdasdasd
